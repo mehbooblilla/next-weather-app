@@ -1,10 +1,12 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
-
-First, run the development server:
-
+First, install node_module,
+secondly, run the development server:
 ```bash
+#To install node_module
+npm install
+#To run development server
 npm run dev
 # or
 yarn dev
@@ -12,11 +14,19 @@ yarn dev
 pnpm dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Technologies Use:
+- NextJS
+- ReactJS
+- Typescript
+- React Hooks (useState, useEffect)
+- OpenWeatherApi key
+- Redux for state Management
+- Axios to fetch API data
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## ScreenShots: Output:
+#### Desktop view:
+![desktop](./public/assets/desktop.png)
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
 ## Learn More
 
