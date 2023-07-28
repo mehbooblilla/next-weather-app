@@ -26,7 +26,8 @@ pnpm dev
 ## ScreenShots: Output:
 #### Desktop view:
 ![desktop](./public/assets/desktop.png)
-
+#### Mobile view:
+![desktop](./public/assets/mobile.png)
 
 ## Learn More
 
